@@ -11,6 +11,7 @@ This is a readme file for a simple Tic Tac Toe game built with HTML, CSS, and Ja
 ### Screenshots
 
 ![Screenshot 2024-07-28 174640](https://github.com/user-attachments/assets/6ccba22e-2187-4e07-afbc-59cf55c9af01)
+![Screenshot 2024-07-28 174658](https://github.com/user-attachments/assets/02ff9c44-3f4f-4eaf-91f1-9533019ea16a)
 
 ### Getting Started
 
