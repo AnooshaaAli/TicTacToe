@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+h1 {
+    font-size: 8vmin;
+}
+
 body {
     background-color: #548587;
     text-align: center;
