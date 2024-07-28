@@ -8,12 +8,6 @@ This is a readme file for a simple Tic Tac Toe game built with HTML, CSS, and Ja
 * Winning conditions are checked after each turn.
 * Reset button allows you to start a new game.
 
-**Screenshots:**
-
-!["Mid-game Tic Tac Toe Board"]("C:\Users\anoos\OneDrive\Pictures\Screenshots\Screenshot 2024-07-28 174640.png")
-!["Winning Tic Tac Toe Board"]("C:\Users\anoos\OneDrive\Pictures\Screenshots\Screenshot 2024-07-28 174658.png")
-
-
 ### Getting Started
 
 1. **Clone the repository:**  
