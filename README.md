@@ -1,6 +1,6 @@
 ## Tic Tac Toe Game: 
 
-This is a readme file for a simple Tic Tac Toe game built with HTML, CSS, and JavaScript. 
+A simple Tic Tac Toe game built with HTML, CSS, and JavaScript. 
 
 ### Features
 
